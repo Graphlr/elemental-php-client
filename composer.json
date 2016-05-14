@@ -1,0 +1,12 @@
+{
+    "name": "graphlr/elemental-php-client",
+    "description": "Elemental Condutor Client for PHP",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+		"classmap": [
+			"lib/"
+		]
+    }
+}
