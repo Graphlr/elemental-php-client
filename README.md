@@ -1,2 +1,5 @@
 # elemental-php-client
-php client for elemental conductor by Tim Hanssen / Graphlr 2016
+
+namespaced at Gwingo\Elemental\
+
+php client for elemental conductor by Tim Hanssen / Graphlr - Gwingo 2016
