@@ -5,7 +5,7 @@ by Tim Hanssen / Graphlr - Gwingo 2016
 
 ## Introduction
 
-Neo4j-PHP-Client is the most advanced and flexible [Neo4j](http://neo4j.com) Client for PHP. 
+Elemental-PHP-Client is a flexible [Elemental](http://www.elementaltechnologies.com/) Client for PHP. 
 
 ### What is Elemental Coductor
 
