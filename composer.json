@@ -1,12 +1,28 @@
 {
     "name": "graphlr/elemental-php-client",
+    "type": "library",
     "description": "Elemental Condutor Client for PHP",
+    "keywords": [
+        "elemental",
+        "coductor",
+        "transcoding",
+        "client",
+        "http"
+    ],
+    "homepage": "http://graphlr.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Hanssen",
+            "email": "tim.hanssen@graphlr.io"
+        }
+    ],
     "require": {
         "php": ">=5.4.0"
     },
     "autoload": {
-		"classmap": [
-			"lib/"
-		]
+	"classmap": [
+		"lib/"
+	]
     }
 }
