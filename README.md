@@ -9,7 +9,7 @@ Elemental-PHP-Client is a flexible [Elemental](http://www.elementaltechnologies.
 
 ### What is Elemental Coductor
 
-Elemental Conductor is a video network management system for file-based and live video delivery applications. The software-based solution offers high availability, secure administration and comprehensive monitoring of video encoding and delivery tasks through an easy-to-use web-based user interface. To learn more visit [Elemental Coductor product page](http://www.elementaltechnologies.com/products/elemental-conductor)?
+Elemental Conductor is a video network management system for file-based and live video delivery applications. The software-based solution offers high availability, secure administration and comprehensive monitoring of video encoding and delivery tasks through an easy-to-use web-based user interface. To learn more visit [Elemental Coductor product page](http://www.elementaltechnologies.com/products/elemental-conductor)
 
 #### Version Support
 
