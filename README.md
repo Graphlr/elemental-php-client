@@ -11,6 +11,10 @@ Elemental-PHP-Client is a flexible [Elemental](http://www.elementaltechnologies.
 
 Elemental Conductor is a video network management system for file-based and live video delivery applications. The software-based solution offers high availability, secure administration and comprehensive monitoring of video encoding and delivery tasks through an easy-to-use web-based user interface. To learn more visit [Elemental Coductor product page](http://www.elementaltechnologies.com/products/elemental-conductor)
 
+#### Current state
+
+Beta, don't use in production environment.
+
 #### Version Support
 
 | **Version** | **Tested**  |
@@ -68,7 +72,3 @@ The timeout by default is up to 5 seconds.
 ### License
 
 The library is released under the MIT License, refer to the LICENSE file bundled with this package.
-
-
-
-
