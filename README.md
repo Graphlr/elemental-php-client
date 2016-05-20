@@ -45,7 +45,7 @@ Require the composer autoloader, configure your connection by providing a connec
 
 require_once 'vendor/autoload.php';
 
-use Gwingo\Elementa;\Client\ClientBuilder;
+use Gwingo\Elemental;\Client\ClientBuilder;
 
 $client = ClientBuilder::create()
     ->addConnection('default', 'USR', PASS )
