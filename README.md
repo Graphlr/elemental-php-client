@@ -13,7 +13,7 @@ Elemental Conductor is a video network management system for file-based and live
 
 #### Current state
 
-Beta, don't use in production environment.
+Production ready.
 
 #### Version Support
 
