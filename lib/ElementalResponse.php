@@ -43,7 +43,7 @@ class ClientResponse
     }
 
 
-    /**
+    /*
      * @return bool
      */
     public function hasErrors()

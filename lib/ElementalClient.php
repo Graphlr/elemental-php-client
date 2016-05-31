@@ -43,6 +43,11 @@ class Client
 		return new ClientResponse( $result );
 	}
 
+
+	/*
+	 * As suggested in the documentation we use a 30 seconds timewindow for our request expires.
+	 * Then adding the hash to the header.
+	 */
 	protected function auth( $query )
 	{
 		$timestamp = time()+30;
