@@ -5,9 +5,12 @@
     "keywords": [
         "elemental",
         "coductor",
+        "transcoder",
         "transcoding",
         "client",
-        "http"
+        "http",
+        "php",
+        "curl"
     ],
     "homepage": "http://graphlr.io",
     "license": "MIT",
