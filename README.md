@@ -48,7 +48,7 @@ require_once 'vendor/autoload.php';
 use Gwingo\Elemental;\Client\ClientBuilder;
 
 $client = ClientBuilder::create()
-    ->addConnection('default', 'USR', PASS )
+    ->addConnection('default', 'USR', 'PASSWORD', 'HOSTNAME' )
     ->build();
 ```
 
@@ -62,7 +62,7 @@ You can configure a global timeout for the connections :
 
 ```php
 $client = ClientBuilder::create()
-    ->addConnection('default', 'HOSNAME)
+    ->addConnection('default', ect. )
     ->setDefaultTimeout(3)
     ->build();
 ```
