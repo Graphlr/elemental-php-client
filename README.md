@@ -25,7 +25,6 @@ Production ready.
 ### Requirements
 
 * PHP >= 5.6 (with curl support)
-* PHP-Curl-Class,
 * A Elemental Conductor (minimum version 2.9)
 
 
