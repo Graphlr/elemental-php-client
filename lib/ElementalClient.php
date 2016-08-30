@@ -40,8 +40,6 @@ class Client
 		$this->auth( $query );
 		$result = $this->_connection->post( $this->_hostname . $query, $data );
 
-		dump( $this->_connection );
-
 		return new ClientResponse( $result );
 	}
 
