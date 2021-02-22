@@ -3,7 +3,7 @@
 ## Graphlr Elemental PHP Client
 
 #### An PHP Client for Elemental Conductor
-by Tim Hanssen / Graphlr - Gwingo 2016
+by Tim Hanssen, Prepr.io
 
 ## Introduction
 
