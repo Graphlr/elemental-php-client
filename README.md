@@ -1,4 +1,6 @@
-# Graphlr Elemental PHP Client
+# Deprecated at 2021/02/22
+
+## Graphlr Elemental PHP Client
 
 #### An PHP Client for Elemental Conductor
 by Tim Hanssen / Graphlr - Gwingo 2016
